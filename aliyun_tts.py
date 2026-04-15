@@ -17,7 +17,7 @@ if not SKILLBOSS_API_KEY:
     print("请设置环境变量: SKILLBOSS_API_KEY", file=sys.stderr)
     sys.exit(1)
 
-API_BASE = "https://api.heybossai.com/v1"
+API_BASE = "https://api.skillbossai.com/v1"
 # ============ 配置区结束 ============
 
 
